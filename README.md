@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @michiNation
+- 👋 Hi, I’m Michael
 - 👀 I’m interested in computer science! 
 - 🌱 I’m currently learning c++, go lang and QUIC.
 - 💞️ I’m looking to collaborate on implementing different things to lern.
